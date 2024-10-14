@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3FE8BFC82CB96D2F002A4DE5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE8BFC72CB96D2F002A4DE5 /* main.swift */; };
+		3FE8BFCF2CB9721D002A4DE5 /* skibidiSigmaSim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE8BFCE2CB9721D002A4DE5 /* skibidiSigmaSim.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		3FE8BFC42CB96D2F002A4DE5 /* CommandLineGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CommandLineGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE8BFC72CB96D2F002A4DE5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		3FE8BFCE2CB9721D002A4DE5 /* skibidiSigmaSim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = skibidiSigmaSim.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				3FE8BFC72CB96D2F002A4DE5 /* main.swift */,
+				3FE8BFCE2CB9721D002A4DE5 /* skibidiSigmaSim.swift */,
 			);
 			path = CommandLineGame;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FE8BFC82CB96D2F002A4DE5 /* main.swift in Sources */,
+				3FE8BFCF2CB9721D002A4DE5 /* skibidiSigmaSim.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
